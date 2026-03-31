@@ -1,0 +1,8 @@
+git config --local usar.name "AliciaEPFlor"
+git --local --list
+git init 
+mkdir
+git init
+git add .
+git switch
+git checkoutsdd

@@ -1,0 +1,45 @@
+Introdução ao Git e o Github
+
+Git
+- Controle de versão (historico do projeto)
+-Linha do tempo 
+
+Conceitos Basicos
+- Repositorios
+Local onde ficara o historico do seu projeto
+- Branch (Ramificação)
+Linha do tempo
+- Commit
+Pontos da historia
+-Stage
+Preparação do que sera envidado para o ponto na historia
+
+Comandos:
+
+// inicia o git (repositorio) no seu projeto
+git init
+
+// adiciona todos os arquivos midificados, ao stage 
+git add .
+
+// cria e descreve um ponto na historia
+git commit -m "message here"
+
+// enviar alterações para o repositorio remoto
+git push 
+
+Push = Empurrar
+Pull = Puxar
+
+Github
+- Plataforma online para colocar seus codigos (atravez do git)
+- Trabalhar em diversos projetos (Profissional para colaborar em projetos ou trabalhar com times)
+- Perfil para mostrar sue trabalho (Portifolio)
+
+Criação de contas no Github
+
+linux 
+ pwd
+ ls -La 
+ Ls (lista)
+

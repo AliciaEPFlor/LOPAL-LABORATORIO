@@ -1,0 +1,59 @@
+Logica de programação e algoritimos: Linguagem de programação
+
+A linguagem de programação e uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas
+- Esta em todos os aparelhos eletroeletronicos funcionais
+- Existem em varias linguagens e elas servem para muitos propositos
+
+Conceitos de linguagem de programação
+    - Embarcado e um sistema de algo a mais do conteito atual, mais completo, ma inteligencia um pouco maior, geladeira com tela, sistema de refrigeração, sistemas completos
+    - Arduino e um sistema Embarcado
+
+Sintaxe: Define as regras estruturais da linguagem, como a organização de palavras-chaves operadas e delimitadores
+Semantica: Refere-se ao significado das instruções escritas de acordo com a sintaxe da linguagem
+
+Sintaxe
+
+if x == 10 
+    console.log("X é 10); // Erro de sintaxe (falta de parenteses no if (Javascript))
+
+Correto: if (x == 10 ) {
+    console.log("x é 10"):
+}
+
+Semantica
+
+let x = Number("10") + 5 // Essa instrução não causa erro, mas resulta em um texto "105" - Java script
+    console.log(x)
+
+Correto: let x = Number("10") +5 
+
+Interpretado: 
+Compilado: C E C++, fortram, 
+
+Estaticas
+- Linguagens compiladas
+int numero = 10; (JAVA)
+- Previne erros
+
+Dinamicas
+- Interpretadas
+numero = 10 (Javascript)
+
+Tipagem forte: Operações entre tipos incompativeis são proibidas (JAVA e C#)
+Tipagem fraca: conversão implicita entre tipos (Javascript)
+
+Modularidade e Reutilização
+
+Função e Metodos: Permitir dvivir o codigo em partes reutilizaveis
+Biblioteas e Frameworks:
+Conjunto de funções pré-definidas para facilidar o desenvolvimento
+
+Nivel de linguagem: 
+
+Baixo Nivel (Assembly)
+- Linguagens mais perto da maquina
+Alto nivel (Python)
+- Linguagens mais perto do ser humano
+
+
+
