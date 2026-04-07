@@ -8,7 +8,6 @@
             <p>Fundamentos essenciais para o desenvolvimento de software</p>
             <div>
                 <span class="badge badge-python">Python</span>
-                <span class="badge badge-javascript">JavaScript</span>
                 <span class="badge badge-git">Git</span>
                 <span class="badge">GitHub</span>
             </div>
